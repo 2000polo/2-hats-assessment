@@ -4,7 +4,7 @@ node_modules/
 package-lock.json
 
 # Dist folder (build output)
-dist/
+# dist/
 
 # IDE and editor files
 .vscode/
