@@ -1,0 +1,19 @@
+
+# Node modules and package lock
+node_modules/
+package-lock.json
+
+# Dist folder (build output)
+dist/
+
+# IDE and editor files
+.vscode/
+*.swp
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
